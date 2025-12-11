@@ -807,7 +807,7 @@ img {
 @media (max-width: 480px) {
   .hero {
     min-height: auto;
-    padding-top: 220px;
+    padding-top: 170px;
     padding-bottom: 40px;
   }
 
@@ -815,6 +815,7 @@ img {
     font-size: 2rem;
     line-height: 1.2;
     margin-bottom: 40px;
+    padding-top: 15%;
   }
 
   .hero-subtitle {
